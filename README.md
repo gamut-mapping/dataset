@@ -1,5 +1,7 @@
 Before going further, change your working directory to somewhere desirable place.
-Below commands will make './WideGamutDataset', './WideGamutDataset/srgb-8bpc', './WideGamutDataset/prop-8bpc', and './WideGamutDataset/split' directories.
+
+Below commands will make ```'./WideGamutDataset'```, ```'./WideGamutDataset/srgb-8bpc'```, ```'./WideGamutDataset/prop-8bpc'```, and ```'./WideGamutDataset/split'``` directories.
+
 Then the corresponding contents will be downloaded into matching directories.
 
 Downloading input images (sRGB)
