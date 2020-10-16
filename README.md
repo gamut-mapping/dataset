@@ -1,20 +1,20 @@
-Before going further, change your working directory to somewhere desirable place.
+### 1. Before going further, change your working directory to somewhere desirable place.
 
 Below commands will make ```'./WideGamutDataset'```, ```'./WideGamutDataset/srgb-8bpc'```, ```'./WideGamutDataset/prop-8bpc'```, and ```'./WideGamutDataset/split'``` directories.
 
 Then the corresponding contents will be downloaded into matching directories.
 
-Downloading input images (sRGB)
+### 2. Downloading input images (sRGB)
 ```
 wget -c --http-user=anonymous --http-password=anonymous -i WideGamutDataset_srgb-8bpc.txt -P ./WideGamutDataset/srgb-8bpc
 ```
 
-Downloading target images (ProPhoto RGB)
+### 3. Downloading target images (ProPhoto RGB)
 ```
 wget -c --http-user=anonymous --http-password=anonymous -i WideGamutDataset_prop-8bpc.txt -P ./WideGamutDataset/prop-8bpc
 ```
 
-Downloading split information.
+### 4. Downloading split information.
 ```
 wget -c --http-user=anonymous --http-password=anonymous -i WideGamutDataset_split.txt -P ./WideGamutDataset/split
 ```
