@@ -1,0 +1,6 @@
+http://vcl.ajou.ac.kr:9800/Anonymous/WideGamutDataset/split/test-input.txt
+http://vcl.ajou.ac.kr:9800/Anonymous/WideGamutDataset/split/test-target.txt
+http://vcl.ajou.ac.kr:9800/Anonymous/WideGamutDataset/split/train-input.txt
+http://vcl.ajou.ac.kr:9800/Anonymous/WideGamutDataset/split/train-target.txt
+http://vcl.ajou.ac.kr:9800/Anonymous/WideGamutDataset/split/val-input.txt
+http://vcl.ajou.ac.kr:9800/Anonymous/WideGamutDataset/split/val-target.txt
