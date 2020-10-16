@@ -1,3 +1,5 @@
+Before going further, change your working directory to somewhere desirable place.
+
 Downloading input images (sRGB)
 ```
 wget -c --http-user=anonymous --http-password=anonymous -i WideGamutDataset_srgb-8bpc.txt -P ./WideGamutDataset/srgb-8bpc
