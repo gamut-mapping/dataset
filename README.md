@@ -8,7 +8,8 @@ Downloading target images (ProPhoto RGB)
 wget -c --http-user=anonymous --http-password=anonymous -i WideGamutDataset_prop-8bpc.txt -P ./WideGamutDataset/prop-8bpc
 ```
 
-Downloading split information
+Downloading split information. After downloading split information, please replace paths in each file correctly.
 ```
 wget -c --http-user=anonymous --http-password=anonymous -i WideGamutDataset_split.txt -P ./WideGamutDataset/split
 ```
+
